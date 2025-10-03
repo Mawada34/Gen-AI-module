@@ -1,26 +1,21 @@
+# Calculator Assignment – Jac Language
 
-# Gen AI Repository - Open University of Kenya (OUK)
+This assignment demonstrates the development of a calculator program in **Jac**, progressing from a scale-agnostic design to an AI-enhanced version using a Large Language Model (LLM).
 
-This is my official repository for the **Generative AI course** at the **Open University of Kenya (OUK)**, done in collaboration with **BCS**.  
-It will contain my coursework, notes, code snippets, and projects related to Conversational AI, NLP, and Deep Learning.  
+Files Included
+**calc5.jac** – Calculator implementation using the **Scale-Agnostic approach** in Jac.   **calc6.jac** – Extended version of the calculator from Step 5, now enhanced with **AI capabilities** using the **Gemini LLM**.  
+**README.md** – Documentation for the assignment.  
 
----
+Description
 
-## 📂 Repository Contents
-- 📝 Course notes summaries  
-- 💻 Python practice scripts  
-- 📊 Assignments and mini-projects  
-- 🤖 AI experiments and models  
+calc5.jac  
+Implements a **scale-agnostic calculator**.  
+- Uses Jac’s scale-agnostic programming approach to ensure the program can handle computations consistently across varying contexts.  
+- Demonstrates modularity and adaptability in design.  
 
----
+calc6.jac  
+Builds upon **calc5.jac**, but introduces **AI integration**:  
+- Enhances the calculator by integrating with **Gemini (LLM)**.  
+- Allows the calculator not only to compute values but also to interpret answers in wording **natural languange**  
+- Showcases the combination of symbolic computation and generative AI.  
 
-## 👤 Author
-- **Name**: [Ryan Mugambi]  
-- **Program**: Generative AI  
-- **Institution**: Open University of Kenya (OUK)  
-- **Scholarship**: BCS - Generative AI Scholarship  
-
----
-
-## 📢 Purpose
-This repository is created for **academic use** and sharing progress with instructors and peers at OUK.
